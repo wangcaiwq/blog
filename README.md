@@ -42,3 +42,8 @@ License
 ---------
 
 GPLv2 or higher
+
+补充
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
